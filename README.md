@@ -13,3 +13,9 @@ ABout the STreamlit : Frontend
 | `st.write()`      | display       |
 | `st.success()`    | green message |
 | `st.error()`      | red error     |
+
+
+
+this is live project run in web :: link
+
+https://peyy534rpej9n6ctwympmy.streamlit.app/
